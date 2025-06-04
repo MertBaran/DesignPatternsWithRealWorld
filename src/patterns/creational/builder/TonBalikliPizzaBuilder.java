@@ -14,6 +14,6 @@ public class TonBalikliPizzaBuilder extends PizzaBuilder{
 
     @Override
     public void buildMalzeme() {
-    pizza.setHamur("ton balığı+mısır");
+    pizza.setMalzeme("ton balığı+mısır");
     }
 }
