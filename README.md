@@ -1,1 +1,1 @@
-Providing a clearer picture
+Applying GoF tactical patterns to rethink and resolve recurring problems in everyday life
